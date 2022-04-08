@@ -4,6 +4,9 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&log=HTML5&logoColor=white)
 
+
+![joony9393's GitHub stats](https://github-readme-stats.vercel.app/api?username=joony9393&show_icons=true&theme=tokyonight)
+
 <!--
 **joony9393/joony9393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
