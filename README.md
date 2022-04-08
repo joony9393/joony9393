@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=YoungjunJung&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=YoungjunJung&animation=fadeIn&fontSize=90)
 
 
 ### Hi there 👋
