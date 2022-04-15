@@ -22,7 +22,12 @@
   src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"
 />
 
+
+# :mailbox_with_mail: Contacts
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wjddudwns567@naver.com)](mailto:wjddudwns567@naver.com)
+
 ![joony9393's GitHub stats](https://github-readme-stats.vercel.app/api?username=joony9393&show_icons=true&theme=tokyonight)
+
 
 <!--
 **joony9393/joony9393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
