@@ -25,7 +25,7 @@
   src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"
 />
 <img
-  src="https://img.shields.io/badge/Visual%20Studio%20Code-181717?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"
+  src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"
 />
 
 # :mailbox_with_mail: Contacts
