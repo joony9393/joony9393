@@ -37,6 +37,7 @@
 
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wjddudwns567@naver.com)](mailto:wjddudwns567@naver.com)
+[![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=mailto:wjddudwns567@kakao.com)](mailto:wjddudwns567@kakao.com)
 
 ![joony9393's GitHub stats](https://github-readme-stats.vercel.app/api?username=joony9393&show_icons=true&theme=tokyonight)
 
