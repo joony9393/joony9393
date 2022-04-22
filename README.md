@@ -5,7 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoony9393&count_bg=%23929292&title_bg=%230A2CE3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=20232a&color=708090&line=6667AB&point=eeeeee&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YoungJun00710&bg_color=20232a&color=708090&line=6667AB&point=eeeeee&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 💪skills
 ### Platforms & Languages
