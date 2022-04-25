@@ -43,8 +43,8 @@
 [![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=white&link=mailto:wjddudwns567@kakao.com)](mailto:wjddudwns567@kakao.com)
 
 
-![joony9393's GitHub stats](https://github-readme-stats.vercel.app/api?username=joony9393&show_icons=true&theme=tokyonight)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=YoungJun's%20Contribution%20Graph&bg_color=20232a&color=708090&line=6667AB&point=eeeeee&area=false&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![joony9393's GitHub stats](https://github-readme-stats.vercel.app/api?username=joony9393&show_icons=true&theme=tokyonight&hide_border=true)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=YoungJun's%20Contribution%20Graph&bg_color=20232a&color=708090&line=6667AB&point=eeeeee&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **joony9393/joony9393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
