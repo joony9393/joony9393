@@ -6,6 +6,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoony9393&count_bg=%23929292&title_bg=%230A2CE3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wqas1212)]
+(https://solved.ac/wqas1212/)
+
 # 💪skills
 ### Platforms & Languages
 <img
