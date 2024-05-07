@@ -23,21 +23,21 @@
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />
+  <img src="https://img.shields.io/badge/reactquery-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
 </div>
 
 ### Tools
-<img
-  src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"
-/>
+<div align="left">
+  <img src="https://img.shields.io/badge/git-242F48.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+  <img src="https://img.shields.io/badge/adobexd-FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-00d081.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
 
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wjddudwns567@naver.com)](mailto:wjddudwns567@naver.com)
