@@ -7,7 +7,7 @@
 
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wqas1212)](https://solved.ac/wqas1212)
+//[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wqas1212)](https://solved.ac/wqas1212)
 
 
 # 💪skills
